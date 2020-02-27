@@ -122,3 +122,7 @@ var twoSum = function(nums, target) {
 
 >内存消耗 :34.4 MB, 在所有 JavaScript 提交中击败了82.78%的用户
 
+* **解题思路及分析**
+
+* 使用数组存储下标的方式来替代值
+
